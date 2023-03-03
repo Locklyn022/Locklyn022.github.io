@@ -81,40 +81,30 @@ analytics:
 # Site Author
 author:
   name             : "Locklyn Zhang"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "DSCF4100.JPG"
+  bio              : "A college student majoring in Broadcast and Television, still looking out for more possibilities."
   location         : "Nanjing"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "528494853@qq.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
   foursquare       :
   github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
   vine             :
-  weibo            : "土豆牛肉盖浇饭_"
-  xing             :
-  youtube          :
-  wikipedia        :
+  weibo            : "https://weibo.com/u/3316121231"
 
 
 # Reading Files
@@ -209,10 +199,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _videos
   - scope:
       path: ""
-      type: teaching
+      type: videos
     values:
       layout: single
       author_profile: true
