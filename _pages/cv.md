@@ -37,13 +37,12 @@ Skills
 
 Posters
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  [Poems lecture] 👉(https://mp.weixin.qq.com/s/2j_5LAF94PwJNt_oXyr0xw)
+  <br/><img src='/images/'>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks %} 
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
