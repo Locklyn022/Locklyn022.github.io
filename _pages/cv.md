@@ -31,7 +31,10 @@ Skills
   * Filming
   * Clipping & Editing
   * Have produced plenty of book promotion video based on the booklist issued by the publishing house.
-  * [Relevant link] 👉[佐野洋子绘本四册](https://mp.weixin.qq.com/s/HkV3XJwGrYZS247O1FC6zg） [消费社会] (https://mp.weixin.qq.com/s/DKZoouPGYYb1nLg8wsDN6w) [柏林童年&艺术社会学三论](https://mp.weixin.qq.com/s/9CryaCym4hOf1gEqtd_DFw)
+  * [Relevant link] 👉
+  *  · [佐野洋子绘本四册] (https://mp.weixin.qq.com/s/HkV3XJwGrYZS247O1FC6zg） 
+  *  · [消费社会] (https://mp.weixin.qq.com/s/DKZoouPGYYb1nLg8wsDN6w) 
+  *  · [柏林童年&艺术社会学三论] (https://mp.weixin.qq.com/s/9CryaCym4hOf1gEqtd_DFw)
 * Publicity skills
   * WeChat public numbers
   * Poster production
