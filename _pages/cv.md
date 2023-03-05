@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.A. in Broadcast and Televison, Nanjing University, 2024(Expected)
+* TBC :D
 
 Work experience
 ======
@@ -19,16 +20,20 @@ Work experience
   * Xiaonan Shiguang
   * Duties included: Film producing and team management
   * Supervisor: Professor Cao
+
+* TBC :)
   
 Skills
 ======
 * Photography
+  * 
   * 
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+* 
 
 Publications
 ======
