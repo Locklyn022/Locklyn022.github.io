@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
+weixin:
+  username               : &Arashi0406
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Locklyn Zhang"
-  avatar           : "DSCF4100.JPG"
+  avatar           : "DSCF4021.JPG"
   bio              : "A college student majoring in Broadcast and Television, still looking out for more possibilities."
   location         : "Nanjing"
   email            : "528494853@qq.com"
