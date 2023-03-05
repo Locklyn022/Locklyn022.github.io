@@ -20,22 +20,22 @@ Work experience
   * Xiaonan Shiguang
   * Duties included: Film producing and team management
   * Supervisor: Professor Cao
-
 * TBC :)
   
 Skills
 ======
 * Photography
-  * 
-  * 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-* 
+  * Passionate about recording beautiful moments. Still learning😉...<br/><img src='/images/DSCF7147.JPG'><br/><img src='/images/DSCF7241.JPG'> <br/><img src='/images/DSCF7230.JPG'>
+* Video Production
+  * Script writing
+  * Filming
+  * Clipping & Editing
+  * Have produced plenty of book promotion video based on the booklist issued by the publishing house.
+* Publicity skills
+  * WeChat public numbers
+  * Poster production
 
-Publications
+Posters
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
