@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Zhangzi Jing"
+title: "Home Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 # What is this?
    This is the website that I'm trying to summary part of myself for dispaly, but as you can tell, I'm not so good at making conclusions :) To speak vaguely, This is a rudimentary display of a college student studying Broadcast and Television. And following info are some specific information. Thank you for visiting my page.
 
