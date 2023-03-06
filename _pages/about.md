@@ -24,7 +24,6 @@ redirect_from:
 
 ## Social accounts
  * WeChat: Arashi0406
- * Weibo: 土豆牛肉盖浇饭_
  * Bilibili: 赛博小狗学习中
 
 ## Educational background
